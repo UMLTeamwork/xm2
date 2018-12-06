@@ -2347,3 +2347,13 @@ img.aligncenter {
 .information-show table {
     margin: auto;
 }
+
+.layout{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    width:auto;
+    height:200px;
+
+}
