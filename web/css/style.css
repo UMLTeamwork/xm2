@@ -1747,7 +1747,7 @@ img.aligncenter {
 /**
  * Phone -> width: < 720px 
  */
-@media only screen and (max-width: 719px) {
+@media only screen and (max-width: 719px) { 
 	.menu-main-container {
 		display: none;
 	}
@@ -1959,5 +1959,4 @@ img.aligncenter {
 		float: right;
 		padding: 0 10px 20px;
 	}
-
 }
