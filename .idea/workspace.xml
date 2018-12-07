@@ -2,38 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a82c5bad-5ba4-424a-bc1d-c757c1ca7aa4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/侯爱民/UML面向对象分析与设计课程简介.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/侯爱民/chapter02--2018-08-14--1.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/侯爱民/chapter02--2018-08-14.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/0.机器视觉-课程介绍.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/1.机器视觉-绪论.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/2.1.机器视觉-视觉的基本知识.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/2.2.机器视觉-视觉物理学特性.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/2.3.机器视觉-视觉系统的几何特性.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/3.1 图像处理基础.ppt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/liuwenguo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xm2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readFirst.md" beforeDir="false" afterPath="$PROJECT_DIR$/readFirst.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/ppt.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/ppt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/testbase.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/testbase.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/vedio.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/vedio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teach_manage/class/class.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teach_manage/class/class.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teach_manage/class/classDisplay.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teach_manage/class/classDisplay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teach_manage/class_report/reportDisplay.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teach_manage/class_report/reportDisplay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teach_manage/course_plan/coursePlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teach_manage/course_plan/coursePlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teach_manage/student_homework/studentHomework.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teach_manage/student_homework/studentHomework.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teaching_body/CourseManager.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teaching_body/CourseManager.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teaching_body/Teacher_demo/ShowInformation.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teaching_body/Teacher_demo/ShowInformation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teaching_body/Teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teaching_body/Teachers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teaching_body/TeachingTeam.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teaching_body/TeachingTeam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/teaching_body/Techer_education.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/teaching_body/Techer_education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/demo/resource/ppt.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/resource_ppt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/demo/resource/testbase.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/resource_testbase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/demo/resource/vedio.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/resource_vedio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/demo/resource/刘文果/liuwenguo.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/刘文果/liuwenguo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/demo/resource/vedio.html">
+        <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_vedio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+            <state relative-caret-position="386">
+              <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -58,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="107" column="102" selection-start-line="107" selection-start-column="102" selection-end-line="107" selection-end-column="102" />
+              <caret line="107" column="111" selection-start-line="107" selection-start-column="111" selection-end-line="107" selection-end-column="111" />
               <folding>
                 <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -69,7 +43,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/demo/resource/testbase.html">
+        <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_testbase.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="213" column="37" selection-start-line="213" selection-start-column="37" selection-end-line="213" selection-end-column="37" />
@@ -87,7 +61,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/demo/resource/ppt.html">
+        <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_ppt.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
               <caret line="179" column="25" selection-start-line="179" selection-start-column="25" selection-end-line="179" selection-end-column="25" />
@@ -141,18 +115,19 @@
         <option value="$PROJECT_DIR$/web/demo/resource/vedio_home.html" />
         <option value="$PROJECT_DIR$/web/demo/resource/刘文果ppt/liuwenguo.html" />
         <option value="$PROJECT_DIR$/web/demo/resource/ppt_home.html" />
-        <option value="$PROJECT_DIR$/web/demo/resource/vedio.html" />
         <option value="$PROJECT_DIR$/web/home.html" />
         <option value="$PROJECT_DIR$/web/demo/resource/testbase.html" />
         <option value="$PROJECT_DIR$/web/demo/resource/ppt.html" />
         <option value="$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html" />
         <option value="$PROJECT_DIR$/web/demo/resource/刘文果/liuwenguo.html" />
+        <option value="$PROJECT_DIR$/web/demo/resource/vedio.html" />
+        <option value="$PROJECT_DIR$/web/demo/resource/resource_vedio.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="292" />
-    <option name="y" value="32" />
+    <option name="x" value="233" />
+    <option name="y" value="16" />
     <option name="width" value="1921" />
     <option name="height" value="1030" />
   </component>
@@ -201,7 +176,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544186997591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544187478623" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,7 +212,7 @@
     <configuration name="liuwenguo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xm2/web/demo/resource/刘文果/liuwenguo.html">
       <method v="2" />
     </configuration>
-    <configuration name="ppt.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xm2/web/demo/resource/ppt.html">
+    <configuration name="resource_ppt.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xm2/web/demo/resource/resource_ppt.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -245,7 +220,7 @@
         <item itemvalue="JavaScript Debug.liuwenguo.html" />
         <item itemvalue="JavaScript Debug.houaimin.html" />
         <item itemvalue="JavaScript Debug.home.html" />
-        <item itemvalue="JavaScript Debug.ppt.html" />
+        <item itemvalue="JavaScript Debug.resource_ppt.html" />
       </list>
     </recent_temporary>
   </component>
@@ -261,15 +236,16 @@
       <updated>1544167405890</updated>
       <workItem from="1544167408116" duration="3237000" />
       <workItem from="1544170914696" duration="2813000" />
-      <workItem from="1544181029925" duration="3048000" />
+      <workItem from="1544181029925" duration="3586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9098000" />
+    <option name="totallyTimeSpent" value="9636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="0" width="1921" height="1030" extended-state="0" />
+    <frame x="233" y="16" width="1921" height="1030" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19349593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -400,7 +376,7 @@
     <entry file="file://$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="107" column="102" selection-start-line="107" selection-start-column="102" selection-end-line="107" selection-end-column="102" />
+          <caret line="107" column="111" selection-start-line="107" selection-start-column="111" selection-end-line="107" selection-end-column="111" />
           <folding>
             <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -409,7 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/demo/resource/ppt.html">
+    <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_ppt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="179" column="25" selection-start-line="179" selection-start-column="25" selection-end-line="179" selection-end-column="25" />
@@ -420,7 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/demo/resource/testbase.html">
+    <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_testbase.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="213" column="37" selection-start-line="213" selection-start-column="37" selection-end-line="213" selection-end-column="37" />
@@ -436,10 +412,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/demo/resource/vedio.html">
+    <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_vedio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+        <state relative-caret-position="386">
+          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
