@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a82c5bad-5ba4-424a-bc1d-c757c1ca7aa4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/resource_casebase.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/resource_project_task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/demo/resource/resource_technique_word.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/resource_ppt.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/resource_ppt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/resource_testbase.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/resource_testbase.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/resource_vedio.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/resource_vedio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/demo/resource/侯爱民/houaimin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="a82c5bad-5ba4-424a-bc1d-c757c1ca7aa4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_vedio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+            <state relative-caret-position="254">
+              <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -215,7 +205,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544190271773" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544190388908" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -275,12 +265,12 @@
       <updated>1544167405890</updated>
       <workItem from="1544167408116" duration="3237000" />
       <workItem from="1544170914696" duration="2813000" />
-      <workItem from="1544181029925" duration="6289000" />
+      <workItem from="1544181029925" duration="6975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12339000" />
+    <option name="totallyTimeSpent" value="13025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1928" height="1039" extended-state="6" />
@@ -464,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/demo/resource/resource_vedio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+        <state relative-caret-position="254">
+          <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
         </state>
       </provider>
     </entry>
