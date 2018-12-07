@@ -76,6 +76,24 @@ jQuery(document).ready(function($){
 
 				$('#teachers').html(html);
 			}
+			if ($('#courses').length) {
+				html = '<div class="widget-title"><h5>课程展示</h5></div>'+
+				'<div style="width: 100%; margin: 0 auto;" class="metaslider metaslider-responsive metaslider-1558 ml-slider"><div id="metaslider_container_1558"><ul id="metaslider_1558" class="rslides">'+
+					'<li><a href="#" target="_blank"><img src="../../images/show1.jpg" height="300" width="200" class="slider-1558 slide-1609" /><div class="caption-wrap"><div class="caption">测试1</div></div></a></li>'+
+					'<li><a href="#" target="_blank"><img src="../../images/show2.jpg" height="300" width="200" class="slider-1558 slide-1609" /><div class="caption-wrap"><div class="caption">测试2</div></div></a></li>'+
+					'<li><a href="#" target="_blank"><img src="../../images/show3.jpg" height="300" width="200" class="slider-1558 slide-1609" /><div class="caption-wrap"><div class="caption">测试3</div></div></a></li>'+
+					'<li><a href="#" target="_blank"><img src="../../images/show4.jpg" height="300" width="200" class="slider-1558 slide-1609" /><div class="caption-wrap"><div class="caption">测试4</div></div></a></li>'+
+				'</ul></div></div>';
+
+				html = html + '<div class="all-courses"><ul class="clearfix">'+
+					'<li><a href="#" target="_blank"><img src="../../images/show1.jpg" /><div class="caption-wrap"><div class="caption">测试1</div></div></a></li>'+
+					'<li><a href="#" target="_blank"><img src="../../images/show2.jpg" /><div class="caption-wrap"><div class="caption">测试2</div></div></a></li>'+
+					'<li><a href="#" target="_blank"><img src="../../images/show3.jpg" /><div class="caption-wrap"><div class="caption">测试3</div></div></a></li>'+
+					'<li><a href="#" target="_blank"><img src="../../images/show4.jpg" /><div class="caption-wrap"><div class="caption">测试4</div></div></a></li>'+
+				'</ul></div>';
+
+				$('#courses').html(html);
+			}
 			/* 首页幻灯片 */
 			if ($('#metaslider_1554').length) {
 				$('#metaslider_1554').responsiveSlides({ 
