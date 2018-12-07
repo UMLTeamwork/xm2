@@ -368,7 +368,7 @@ a:focus {
 }
 
 body, .wrapper {
-    background: #eee url('./images/wapper-bg.png');
+    background: #eee url('images/wapper-bg.png');
 }
 
 /**
@@ -499,7 +499,7 @@ body, .wrapper {
 .small-menu {
     display: none;
     height: 50px;
-    background: url('./images/small-menu.png') 10px 0 no-repeat;
+    background: url('images/small-menu.png') 10px 0 no-repeat;
     cursor: pointer;
 }
 
@@ -649,7 +649,7 @@ img.aligncenter {
 .widget-area .ajax_hits_counter_popular_posts_widget li {
     line-height: 2em;
     padding-left: 10px;
-    background-image: url('./images/arrow-right.png');
+    background-image: url('images/arrow-right.png');
     background-position: 0 12px;
     background-repeat: no-repeat;
 }
@@ -680,7 +680,7 @@ img.aligncenter {
 .widget-area .widget_recent_entries li {
     line-height: 2em;
     padding-left: 10px;
-    background-image: url('./images/arrow-right.png');
+    background-image: url('images/arrow-right.png');
     background-position: 0 12px;
     background-repeat: no-repeat;
 }
@@ -834,7 +834,7 @@ img.aligncenter {
     height: 30px;
     line-height: 30px;
     padding-left: 10px;
-    background-image: url('./images/arrow-right.png');
+    background-image: url('images/arrow-right.png');
     background-position: 0 12px;
     background-repeat: no-repeat;
 }
@@ -1790,7 +1790,7 @@ img.aligncenter {
     vertical-align: top;
     width: 60px;
     height: 50px;
-    background: url('./images/search-icon.png') 15px center no-repeat;
+    background: url('images/search-icon.png') 15px center no-repeat;
     cursor: pointer;
 }
 
