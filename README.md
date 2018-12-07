@@ -20,13 +20,13 @@
 * [GitHub团队项目合作流程](https://www.cnblogs.com/schaepher/p/4933873.html)
 
 ## processon
-* [processon在线画用例图](https://www.processon.com)
+#### * [processon在线画用例图](https://www.processon.com)
 
 
 
 ## 一、项目实训目的
 通过正向工程方式，完成用户提出的《面向对象分析语设计(UML)》在线开放课程平台的分析、设计、实现等环节。
-按照Rational Unified Process（RUP，Rational统一过程）的软件开发生命周期模型，指导整个项目的开发。
+按照Rational Unified Process（RUP，Rational统一过程）的软件开发生命周期模型，指导整个项目的开发。        
 
 ## 二、技术要求
 #### 1、基于Java/JavaScritp语言和JSP技术。JDK虚拟机，MySQL数据库，Web服务器Tomcat，数据库服务器Apache。
