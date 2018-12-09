@@ -95,17 +95,17 @@ function Rendering(){
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
-        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a href=\"http://dblab.xmu.edu.cn/topic/teaching/\">教学资源</a>\n" +
+        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a href=\"/web/demo/resource/resource_ppt.html\">教学资源</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/2984/\">课程课件</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_ppt.html\">课程课件</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/1089/\">教学录像</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_vedio.html\">教学录像</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/368/\">习题库</a>" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_testbase.html\">习题库</a>" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/303/\">案例库</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/352/\">实验任务</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/352/\">技术文档范本</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_casebase.html\">案例库</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_project_task.html\">实验任务</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_technique_word.html\">技术文档范本</a>\n" +
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
