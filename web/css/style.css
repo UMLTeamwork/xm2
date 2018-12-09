@@ -1960,3 +1960,8 @@ img.aligncenter {
 		padding: 0 10px 20px;
 	}
 }
+.layout{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}

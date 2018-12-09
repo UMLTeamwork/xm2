@@ -109,17 +109,17 @@ function Rendering(){
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
-        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a href=\"http://dblab.xmu.edu.cn/topic/teaching/\">教学管理</a>\n" +
+        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a href=\"/web/demo/teach_manage/coursePlan.html\">教学管理</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/2984/\">开课计划</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_manage/coursePlan.html\">开课计划</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/1089/\">上课班级</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_manage/class.html\">上课班级</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/368/\">班级花名册</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_manage/classRoster.html\">班级花名册</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/303/\">班级成绩单</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_manage/classReport.html\">班级成绩单</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/352/\">学生作业案例</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_manage/studentHomework.html\">学生作业案例</a>\n" +
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
