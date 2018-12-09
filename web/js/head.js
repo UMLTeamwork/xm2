@@ -56,13 +56,13 @@ function Rendering(){
         "                            href=\"#\">教师队伍</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"./demo/teaching_body/CourseManager.html\">课程负责人</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"./demo/teaching_body/TeachingTeam.html\">课程教学团队</a>\n" +
+        "                                    href=\"/web/demo/teaching_body/CourseManager.html\">课程负责人</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_body/TeachingTeam.html\">课程教学团队</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"./demo/teaching_body/Teachers.html\">主讲教师</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_body/Teachers.html\">主讲教师</a>\n" +
         "                            </li>\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"./demo/teaching_body/Techer_education.html\">青年教师培养</a></li>\n" +
+        "                                    href=\"/web/demo/teaching_body/Techer_education.html\">青年教师培养</a></li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
         "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a\n" +
