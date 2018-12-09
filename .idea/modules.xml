@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/xm2.iml" filepath="$PROJECT_DIR$/xm2.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/xm2.iml" filepath="$PROJECT_DIR$/.idea/xm2.iml" />
+>>>>>>> upstream/master
     </modules>
   </component>
 </project>
