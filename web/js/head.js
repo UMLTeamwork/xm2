@@ -12,9 +12,9 @@ function Rendering(){
     document.getElementById("top").innerHTML="<header id=\"masthead\" class=\"site-header clearfix\" role=\"banner\">\n" +
         "        <div class=\"site-branding\">\n" +
         "            <h2 class=\"site-title\">\n" +
-        "                <a href=\"http://dblab.xmu.edu.cn/\" title=\"厦门大学数据库实验室\" rel=\"home\">UML课程设计</a>\n" +
+        "                <a href=\"http://dblab.xmu.edu.cn/\" title=\"UML课程设计\" rel=\"home\">UML课程设计</a>\n" +
         "            </h2>\n" +
-        "            <div class=\"site-logo\"><img src=\"/web/images/branding.png\"></div>\n" +
+        "            <div class=\"site-logo\"><img src=\"/web/images/UML_logo.png\"></div>\n" +
         "        </div>\n" +
         "\n" +
         "        <nav id=\"site-navigation\" class=\"site-navigation clearfix\" role=\"navigation\">\n" +
@@ -83,16 +83,16 @@ function Rendering(){
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
-        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a href=\"http://dblab.xmu.edu.cn/topic/research/\">教学研究改革</a>\n" +
+        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a href=\"/web/demo/teach_study_reform/teach_reform_achievement.html\">教学研究改革</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"http://dblab.xmu.edu.cn/post/bigdata-teaching-platform/\">教学改革措施</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/8197/\">教学改革立项</a>\n" +
+        "                                    href=\"/web/demo/teach_study_reform/teach_reform_measure.html\">教学改革措施</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_study_reform/teach_reform_project.html\">教学改革立项</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/10164/\">教学改革成果</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teach_study_reform/teach_reform_achievement.html\">教学改革成果</a>\n" +
         "                            </li>\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"http://dblab.xmu.edu.cn/post/bigdata/\">教学表彰和奖励</a>\n" +
+        "                                    href=\"/web/demo/teach_study_reform/teach_reform_award.html\">教学表彰和奖励</a>\n" +
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
