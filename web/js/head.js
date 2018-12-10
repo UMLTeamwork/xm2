@@ -65,19 +65,19 @@ function Rendering(){
         "                        </ul>\n" +
         "                    </li>\n" +
         "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a\n" +
-        "                            href=\"http://dblab.xmu.edu.cn/topic/info/\">教学安排</a>\n" +
+        "                            href=\"/web/demo/teaching_arrange/teaching_manage.html\">教学安排</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"http://dblab.xmu.edu.cn/post/bigdata-teaching-platform/\">教学大纲</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/8197/\">教学日历</a>\n" +
+        "                                    href=\"/web/demo/teaching_arrange/teaching_program.html\">教学大纲</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_arrange/teaching_canlendar.html\">教学日历</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/10164/\">教学内容</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_arrange/teaching_content.html\">教学内容</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/bigdata/\">授课计划</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_arrange/teaching_plan.html\">授课计划</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/8197/\">教学难重点</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_arrange/teaching_key.html\">教学难重点</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/10164/\">教学方法与手段</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_arrange/teaching_method.html\">教学方法与手段</a>\n" +
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
