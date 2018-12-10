@@ -25,9 +25,9 @@ function Rendering(){
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
         "                                    href=\"/web/html/test.html\">课程负责人</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/html/test2.html\">课程简介</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/introduction.html\">课程简介</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\".\\demo\\course\\features.html\">课程特色</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/features.html\">课程特色</a>\n" +
         "                            </li>\n" +
         "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/bigdata/\">课程动态</a>\n" +
         "                            </li>\n" +
@@ -40,15 +40,14 @@ function Rendering(){
         "                        </ul>\n" +
         "                    </li>\n" +
         "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a\n" +
-        "                            href=\"http://dblab.xmu.edu.cn/post/bigdata-teaching-platform/\">课程概况</a>\n" +
+        "                            href=\"#\">课程概况</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
-        "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\".\\demo\\course\\introduction.html\">课程简介</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\".\\demo\\course\\features.html\">课程特色</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/introduction.html\">课程简介</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/features.html\">课程特色</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\".\\demo\\course\\data.html\">教材与参考资料</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/data.html\">教材与参考资料</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\".\\demo\\course\\history.html\">历史沿革</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/history.html\">历史沿革</a>\n" +
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
