@@ -140,11 +140,10 @@ function Rendering(){
         "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a\n" +
         "                            href=\"http://dblab.xmu.edu.cn/topic/dblab/\">教学互动</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/8197/\">微信群</a></li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/10164/\">QQ群</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_talk/WeChat.html\">微信群</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_talk/QQ.html\">QQ群</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"http://dblab.xmu.edu.cn/post/bigdata/\">网站内的师生互动</a></li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_talk/Talking.html\">网站内的师生互动</a></li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
         "                    <!--div class=\"search-area\"><span id=\"search-content\" class=\"search-content\" style=\"display: none;\"><form role=\"search\" method=\"get\" class=\"search-form\" action=\"http://dblab.xmu.edu.cn/\"><input type=\"search\" class=\"search-field\" placeholder=\"搜索内容…\" name=\"s\" title=\"搜索内容：\"><input type=\"submit\" class=\"search-submit\" value=\"搜索\"></form></span><span id=\"search-icon\" class=\"search-icon\" title=\"搜索文章内容\"></span></div></div>\t\t<div class=\"small-menu\"></div></nav-->\n" +
