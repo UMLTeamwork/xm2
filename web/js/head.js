@@ -20,22 +20,24 @@ function Rendering(){
         "        <nav id=\"site-navigation\" class=\"site-navigation clearfix\" role=\"navigation\">\n" +
         "            <div class=\"menu-main-container\">\n" +
         "                <ul id=\"menu-main\" class=\"menu menu-level-1\">\n" +
-        "                    <li class=\"menu-item item-level-1 has-sub-menu\"><a\n" +
-        "                            href=\"..\\html\\test.html\">首页</a>\n" +
+        "                   <li class=\"menu-item item-level-1 has-sub-menu\"><a\n" +
+        "                            href=\"javascript:void(0);\">首页</a>\n" +
         "                        <ul class=\"sub-menu menu-level-2\">\n" +
         "                            <li class=\"menu-item item-level-2\"><a\n" +
-        "                                    href=\"/web/html/test.html\">课程负责人</a></li>\n" +
+        "                                    href=\"/web/demo/teaching_body/CourseManager.html\">课程负责人</a></li>\n" +
         "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/introduction.html\">课程简介</a>\n" +
         "                            </li>\n" +
         "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/course/features.html\">课程特色</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/bigdata/\">课程动态</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/home_page/course_dynamics.html\">课程动态</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/8197/\">教师团队</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/teaching_body/TeachingTeam.html\">教师团队</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/10164/\">教学资源链接</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/resource/resource_ppt.html\">教学资源链接</a>\n" +
         "                            </li>\n" +
-        "                            <li class=\"menu-item item-level-2\"><a href=\"http://dblab.xmu.edu.cn/post/bigdata/\">友情链接</a>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/home_page/friend_link.html\">友情链接</a>\n" +
+        "                            </li>\n" +
+        "                            <li class=\"menu-item item-level-2\"><a href=\"/web/demo/home_page/login.html\">登录</a>\n" +
         "                            </li>\n" +
         "                        </ul>\n" +
         "                    </li>\n" +
